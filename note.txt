@@ -1,0 +1,8 @@
+pygame
+
+- pygame.init() -> cần phải gọi trước khi sử dụng bất kì chức năng nào của pygame
++ Khởi tạo module của pygame
++ Thiết lập môi trường sử dụng âm thanh, video,...
++ Cấu hình
++ Không tham số
+
